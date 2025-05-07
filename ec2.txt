@@ -1,0 +1,16 @@
+https://github.com/marcft/tic-tac-toe.git
+
+https://chatgpt.com/c/681b613c-56b0-8007-91a7-31ce39da929e
+
+sudo yum update -y
+sudo yum install git -y
+sudo yum install httpd -y
+
+
+git clone https://github.com/your-username/your-repo.git
+
+sudo cp -r your-repo/* /var/www/html/
+
+sudo systemctl start httpd
+
+http://your-ec2-public-ip
