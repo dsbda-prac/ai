@@ -1,0 +1,15 @@
+https://chatgpt.com/share/681c08b0-9fa8-8007-bdb2-4af66566fd67(n queen)
+https://chatgpt.com/share/681c08b0-9fa8-8007-bdb2-4af66566fd67
+
+https://www.programiz.com/dsa/graph-bfs((BFS))
+https://www.programiz.com/dsa/graph-dfs(DFS)
+https://chatgpt.com/share/681c0ca1-7954-8007-9f14-bf78712ce796
+https://chatgpt.com/share/681c0ca1-7954-8007-9f14-bf78712ce796
+
+https://chatgpt.com/share/681c1044-494c-8007-8e4c-53788f0a9738(a* algorithm)
+https://chatgpt.com/share/681c1044-494c-8007-8e4c-53788f0a9738
+https://chatgpt.com/c/681c1421-fd78-8007-a859-175817fd0152
+https://chatgpt.com/share/681c1452-35b0-8007-b5c4-bb648112690f
+
+https://chatgpt.com/share/681c12d9-e12c-8007-a1a8-50113c1d5b80(greedy)
+https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/
